@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tan Rui Yang
-- 🌱 I’m currently a penultimate year computer engineering undergraduate at NUS
+- 🌱 I’m currently a final year computer engineering undergraduate at NUS
 - 📫 Check out my [portfolio](https://tan-rui-yang-portfolio.netlify.app/) for more details!
 
 <!---
